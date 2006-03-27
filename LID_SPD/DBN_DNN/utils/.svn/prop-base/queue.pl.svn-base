@@ -1,0 +1,18 @@
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 517
+/sandbox/dan/egs/wsj/s5/utils/queue.pl:1504-1801
+/sandbox/dan2/egs/wsj/s5/utils/queue.pl:2775-2829
+/sandbox/discrim/egs/wsj/s5/utils/queue.pl:234-658
+/sandbox/karel/egs/wsj/s5/utils/queue.pl:270-942,1522-1532
+/sandbox/kws/egs/wsj/s5/utils/queue.pl:1533-1557
+/sandbox/oplatek/egs/wsj/s5/utils/queue.pl:2513-2541
+/sandbox/sharedlibs/egs/wsj/s5/utils/queue.pl:2585-2662
+/sandbox/tanel/egs/wsj/s5/utils/queue.pl:2623-2658
+/sandbox/thang-project/egs/wsj/s5/utils/queue.pl:233-258
+/trunk/egs/wsj/s5/utils/queue.pl:2832-3149
+END
